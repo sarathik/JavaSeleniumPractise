@@ -7,6 +7,7 @@ public class Assignment1 {
 	public int sumMethod(int a, int b) {
 		int sout = a + b;
 		return sout;
+		
 	}
 	
 	public int subMethod(int a, int b) {
