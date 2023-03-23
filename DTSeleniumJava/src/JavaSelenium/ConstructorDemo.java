@@ -13,7 +13,7 @@ public class ConstructorDemo {
 	
 	public static void main(String[] args) {
 		//ConstructorDemo cdemo = new ConstructorDemo();
-		ConstructorDemo cdemo = new ConstructorDemo(34);
+		ConstructorDemo cdemo = new ConstructorDemo(345);
 		
 	}
 	
